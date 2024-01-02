@@ -1,0 +1,2 @@
+Tanggal	ID-BK	ID-Gudang	ID-Barang	Nama Barang	Qty	Keterangan	
+2023-11-02	14	1	3	MEJA 150x150	100	Barang Masuk	
